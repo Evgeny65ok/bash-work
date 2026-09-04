@@ -1,4 +1,4 @@
-<img width="431" height="295" alt="Снимок экрана 2026-09-04 103556" src="https://github.com/user-attachments/assets/e65eacbd-4083-432b-80b3-a8277979c773" /><img width="695" height="262" alt="Снимок экрана 2026-09-04 102521" src="https://github.com/user-attachments/assets/58d1e180-483f-4aa2-8340-2d16aa9b7deb" /># Самостоятельная работа по командной строке Bash
+
 **Выполнил:** Белевитин Евгений Александрович
 
 ---
