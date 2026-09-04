@@ -18,7 +18,7 @@ blog/
 ├── css/
 └── js/
 ```
-![alt text](image.png)
+![alt text](image-5.png)
 **Bash-скрипт для создания:**
 ```bash
 mkdir -p blog/{posts,pages,images,css,js}
@@ -27,7 +27,7 @@ mkdir -p blog/{posts,pages,images,css,js}
 ---
 
 ### 2. Интернет-магазин (shop/)
-![alt text](image-1.png)
+![alt text](image-6.png)
 **Схема структуры:**
 ```text
 shop/
@@ -69,7 +69,7 @@ webapp/
 mkdir -p webapp/{css,js,images/icons,pages}
 touch webapp/css/style.css webapp/js/script.js webapp/images/logo.png webapp/images/icons/favicon.ico webapp/pages/about.html webapp/index.html
 ```
-![alt text](image-2.png)
+![alt text](image-7.png)
 ---
 
 ### 4. Фреймворк (framework/)
@@ -96,7 +96,7 @@ framework/
     └── workflows/
         └── test.yml
 ```
-![alt text](image-3.png)
+!![alt text](image-8.png)
 **Bash-скрипт для создания:**
 ```bash
 mkdir -p framework/{src/{core/{config,helpers},modules/{auth,api}},tests/{unit,integration},docs,.github/workflows}
@@ -131,7 +131,7 @@ project-x/
 ├── Dockerfile
 └── docker-compose.yml
 ```
-![alt text](image-4.png)
+![alt text](image-9.png)
 **Bash-скрипт для создания:**
 ```bash
 mkdir -p project-x/{src/{app/{controllers,models},lib/{helpers,config}},tests/{unit,e2e}}
